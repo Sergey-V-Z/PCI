@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : PCB Document [PCI short card universal - 32 BIT.PCBDOC]
+   Generated File[PCI short card universal - 32 BIT.TXT]
+   Generated File[PCI short card universal - 32 BIT.LDP]
+   Generated File[PCI short card universal - 32 BIT.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 15:20:39 On 06.04.2021
