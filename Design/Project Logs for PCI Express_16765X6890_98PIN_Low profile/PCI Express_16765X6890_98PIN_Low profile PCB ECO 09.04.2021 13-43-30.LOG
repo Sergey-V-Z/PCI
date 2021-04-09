@@ -1,0 +1,23 @@
+Change Managed Component Library Link : Designator=P1 Old VaultGUID= New VaultGUID=9F0439D8-5E13-4286-B92A-0416224E50A9 Old ItemGUID= New ItemGUID=7CFCB6D4-E737-4509-811E-6885EBD0A3E4 Old RevisionGUID= New RevisionGUID=2206BB4B-E183-47B7-AF74-06F268762DDD
+Change component parameters: Designator = "P1" ("P1"); Footprint = "PCIeX8-GF-2D-1000-1K-O98"; UniqueID = "\TDPPQUML\MGVJRQRT" ("\TDPPQUML\MGVJRQRT")
+Change component parameters (AddParameter): Name = "ClassName"; Value = "Edge Connector"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Version"; Value = "rev2.0, Apr-2007"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mating Connector"; Value = "Molex-87715-9205"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package Reference"; Value = "PCIeX8-GF-2D-1000-1K-O98"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = "Altium"; VariantName = "[No Variations]"
+Added Component: Designator=J1(JAE_SM3ZS067U310ABR1200)
+Add component (AddParameter): Name = "Availability"; Value = "Warning"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/SM3ZS067U310ABR1200/JAE%20Electronics/view-part/652226/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "JAE Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "SM3ZS067U310ABR1200"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/SM3ZS067U310ABR1200/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/SM3ZS067U310ABR1200/JAE%20Electronics/view-part/652226/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=PERST# Pin=J1-38
+Added Pin To Net: NetName=PRSNT1# Pin=J1-52
+Added Pin To Net: NetName=PRSNT2# Pin=J1-66
+Added Class: Name=Copy of PCI Express_16765X6890_98PIN_Low profile
+Change Room Name: Old Name=Component Free Area New Name=U_CON_PCI_Express_X8_98PIN
+Change Room Scope: Old Scope=InAnyComponent New Scope=InComponentClass('U_CON_PCI_Express_X8_98PIN')
