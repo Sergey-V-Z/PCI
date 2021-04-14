@@ -1,0 +1,28 @@
+Protel Design System Design Rule Check
+PCB File : D:\Kicads Schem\PCI\PCI Express_16765X6890_98PIN_Low profile.PCBDOC
+Date     : 14.04.2021
+Time     : 11:32:18
+
+Processing Rule : Clearance Constraint (Gap=0.1mm) (All),(All)
+   Violation between Clearance Constraint: (Collision < 0.1mm) Between Area Fill (0mm,58.5mm) (12.7mm,68.9mm) on BottomLayer And Pad Free-MH2(7.5mm,63.25mm) on MultiLayer 
+   Violation between Clearance Constraint: (Collision < 0.1mm) Between Area Fill (0mm,58.5mm) (12.7mm,68.9mm) on TopLayer And Pad Free-MH2(7.5mm,63.25mm) on MultiLayer 
+   Violation between Clearance Constraint: (Collision < 0.1mm) Between Pad Free-MH1(7.5mm,9.35mm) on MultiLayer And Region (0 hole(s)) BottomLayer 
+   Violation between Clearance Constraint: (Collision < 0.1mm) Between Pad Free-MH1(7.5mm,9.35mm) on MultiLayer And Region (0 hole(s)) TopLayer 
+Rule Violations :4
+
+Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
+Rule Violations :0
+
+Processing Rule : Un-Routed Net Constraint ( (All) )
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=0.15mm) (Max=3mm) (Preferred=0.254mm) (All)
+Rule Violations :0
+
+Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=0.508mm) (Conductor Width=0.254mm) (Air Gap=0.254mm) (Entries=4) (All)
+Rule Violations :0
+
+
+Violations Detected : 4
+Waived Violations : 0
+Time Elapsed        : 00:00:02
