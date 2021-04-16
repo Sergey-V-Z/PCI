@@ -1,7 +1,7 @@
 Protel Design System Design Rule Check
 PCB File : D:\Kicads Schem\PCI\PCI Express_16765X6890_98PIN_Low profile.PCBDOC
-Date     : 14.04.2021
-Time     : 11:32:18
+Date     : 16.04.2021
+Time     : 15:27:20
 
 Processing Rule : Clearance Constraint (Gap=0.1mm) (All),(All)
    Violation between Clearance Constraint: (Collision < 0.1mm) Between Area Fill (0mm,58.5mm) (12.7mm,68.9mm) on BottomLayer And Pad Free-MH2(7.5mm,63.25mm) on MultiLayer 

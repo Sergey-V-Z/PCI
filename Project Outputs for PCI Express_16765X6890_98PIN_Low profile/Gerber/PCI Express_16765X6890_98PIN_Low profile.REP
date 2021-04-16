@@ -1,0 +1,234 @@
+*************************************************************
+FileName = PCI Express_16765X6890_98PIN_Low profile.GBR
+AutoAperture = True
+*************************************************************
+Generating : InternalPlane2
+      File : PCI Express_16765X6890_98PIN_Low profile.GP1
+
+    Adding Layer      : InternalPlane2
+
+    Adding Layer      : MultiLayer
+
+
+Used DCodes :
+    D26
+    D27
+    D28
+    D29
+    D30
+    D31
+    D32
+    D33
+    D34
+    D35
+*************************************************************
+
+*************************************************************
+Generating : TopLayer
+      File : PCI Express_16765X6890_98PIN_Low profile.GTL
+
+    Adding Layer      : TopLayer
+
+    Adding Layer      : MultiLayer
+
+
+Used DCodes :
+    D10
+    D13
+    D14
+    D15
+    D16
+    D17
+    D18
+    D19
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
+*************************************************************
+
+*************************************************************
+Generating : TopPaste
+      File : PCI Express_16765X6890_98PIN_Low profile.GTP
+
+    Adding Layer      : TopPaste
+
+    Adding Layer      : TopLayer
+
+    Adding Layer      : MultiLayer
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : InternalPlane1
+      File : PCI Express_16765X6890_98PIN_Low profile.G1
+
+    Adding Layer      : InternalPlane1
+
+    Adding Layer      : MultiLayer
+
+
+Used DCodes :
+    D10
+    D23
+    D25
+*************************************************************
+
+*************************************************************
+Generating : TopOverlay
+      File : PCI Express_16765X6890_98PIN_Low profile.GTO
+
+    Adding Layer      : TopOverlay
+
+
+Used DCodes :
+    D10
+    D11
+*************************************************************
+
+*************************************************************
+Generating : BottomLayer
+      File : PCI Express_16765X6890_98PIN_Low profile.GBL
+
+    Adding Layer      : BottomLayer
+
+    Adding Layer      : MultiLayer
+
+
+Used DCodes :
+    D10
+    D13
+    D14
+    D15
+    D16
+    D17
+    D18
+    D19
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
+    D36
+    D37
+    D38
+    D39
+    D40
+    D41
+*************************************************************
+
+*************************************************************
+Generating : BottomPaste
+      File : PCI Express_16765X6890_98PIN_Low profile.GBP
+
+    Adding Layer      : BottomPaste
+
+    Adding Layer      : BottomLayer
+
+    Adding Layer      : MultiLayer
+
+
+Used DCodes :
+    D36
+    D37
+    D38
+    D39
+    D40
+*************************************************************
+
+*************************************************************
+Generating : BottomSolder
+      File : PCI Express_16765X6890_98PIN_Low profile.GBS
+
+    Adding Layer      : BottomSolder
+
+    Adding Layer      : BottomLayer
+
+    Adding Layer      : MultiLayer
+
+
+Used DCodes :
+    D12
+    D13
+    D14
+    D15
+    D16
+    D17
+    D18
+    D19
+    D20
+    D21
+    D22
+    D36
+    D37
+    D42
+    D43
+    D44
+*************************************************************
+
+*************************************************************
+Generating : TopSolder
+      File : PCI Express_16765X6890_98PIN_Low profile.GTS
+
+    Adding Layer      : TopSolder
+
+    Adding Layer      : TopLayer
+
+    Adding Layer      : MultiLayer
+
+
+Used DCodes :
+    D12
+    D13
+    D14
+    D15
+    D16
+    D17
+    D18
+    D19
+    D20
+    D21
+    D22
+*************************************************************
+
+*************************************************************
+Generating : PCI-SIG Outline
+      File : PCI Express_16765X6890_98PIN_Low profile.GM1
+
+    Adding Layer      : PCI-SIG Outline
+
+
+Used DCodes :
+    D47
+*************************************************************
+
+*************************************************************
+Generating : KeepOutLayer
+      File : PCI Express_16765X6890_98PIN_Low profile.GKO
+
+    Adding Layer      : KeepOutLayer
+
+
+Used DCodes :
+    D48
+*************************************************************
+
+*************************************************************
+Generating : BottomOverlay
+      File : PCI Express_16765X6890_98PIN_Low profile.GBO
+
+    Adding Layer      : BottomOverlay
+
+
+Used DCodes :
+    D10
+    D11
+    D45
+    D46
+*************************************************************
+

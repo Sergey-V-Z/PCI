@@ -1,0 +1,21 @@
+------------------------------------------------------------------------------------------
+Gerber File Extension Report For: PCI Express_16765X6890_98PIN_Low profile.GBR   16.04.2021  15:53:19
+------------------------------------------------------------------------------------------
+
+
+------------------------------------------------------------------------------------------
+Layer Extension     Layer Description                      
+------------------------------------------------------------------------------------------
+.GTO                TopOverlay                              
+.GTP                TopPaste                                
+.GTS                TopSolder                               
+.GTL                TopLayer                                
+.G1                 InternalPlane1                          
+.GP1                InternalPlane2                          
+.GBL                BottomLayer                             
+.GBS                BottomSolder                            
+.GBP                BottomPaste                             
+.GBO                BottomOverlay                           
+.GM1                PCI-SIG Outline                         
+.GKO                KeepOutLayer                            
+------------------------------------------------------------------------------------------

@@ -1,0 +1,24 @@
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of PCB Document [PCI Express_16765X6890_98PIN_Low profile.PCBDOC]
+   Generated File[PCI Express_16765X6890_98PIN_Low profile.GTO]
+   Generated File[PCI Express_16765X6890_98PIN_Low profile.GTP]
+   Generated File[PCI Express_16765X6890_98PIN_Low profile.GTS]
+   Generated File[PCI Express_16765X6890_98PIN_Low profile.GTL]
+   Generated File[PCI Express_16765X6890_98PIN_Low profile.G1]
+   Generated File[PCI Express_16765X6890_98PIN_Low profile.GP1]
+   Generated File[PCI Express_16765X6890_98PIN_Low profile.GBL]
+   Generated File[PCI Express_16765X6890_98PIN_Low profile.GBS]
+   Generated File[PCI Express_16765X6890_98PIN_Low profile.GBP]
+   Generated File[PCI Express_16765X6890_98PIN_Low profile.GBO]
+   Generated File[PCI Express_16765X6890_98PIN_Low profile.GM1]
+   Generated File[PCI Express_16765X6890_98PIN_Low profile.GKO]
+   Generated File[PCI Express_16765X6890_98PIN_Low profile.RUL]
+   Generated File[PCI Express_16765X6890_98PIN_Low profile.EXTREP]
+   Generated File[PCI Express_16765X6890_98PIN_Low profile.REP]
+
+
+Files Generated   : 15
+Documents Printed : 0
+
+Finished Output Generation At 15:53:20 On 16.04.2021
